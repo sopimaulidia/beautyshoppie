@@ -1,4 +1,5 @@
 REPOSITORY: https://sopimaulidia.github.io/beautyshoppie/
+GITHUB: https://github.com/sopimaulidia/beautyshoppie
 # beautyshoppie
 # Shoppie-Beauty 💄
 
